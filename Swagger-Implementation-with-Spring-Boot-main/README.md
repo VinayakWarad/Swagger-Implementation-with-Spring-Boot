@@ -47,4 +47,4 @@ The `SecurityConfiguration` class configures Spring Security to allow access to 
 
 For a complete list of endpoints and their documentation, please refer to the Swagger UI after starting the application.
 
-
+Happy Coding!!
